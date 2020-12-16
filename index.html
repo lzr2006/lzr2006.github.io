@@ -30,7 +30,22 @@
                h3{
                 color:purple;
                }
-     #imgage{width:990px; height:80px; margin:0 auto; background:#D06;}    
+  .sentence{
+			color:royalblue;
+			background: #2FBC79;
+			font-size: 30px;
+			text-align: center;
+			font-family: "华文隶书";
+			border: 2px double purple;
+
+		}
+
+		.sentence::selection{
+			color:orange;
+			background: #FFFFFF;
+			font-family:"华文楷体";
+			border: 2px solid #B97E1D;
+		}
 	</style>
     <script>
     var _hmt = _hmt || [];
@@ -54,12 +69,26 @@
 
             }
    </script>
+  <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+ <script>
+ $(function()
+{
 
+  alert("获取今天的句子！")
+  $.get("http://everydayonesentence.biu8.top/Truephp/get_today_sentence.php",function(data,status)
+  {
+    //document.write(data)
+    console.log(data)
+    $(".sentence").text(data)
+  })
+}
+
+ </script>
 <meta charset="utf-8">
 <title>toysworld-welcome</title>
 </head>
 <body>
-<div id="imgage" ><h1 style="color:green">新闻(重要提示):弟弟趣事录开始发放了!</h1></div>
+<div class="sentence">每日一句</div>
 	<center><h1>你好</h1></center>
 	<h2>
 
