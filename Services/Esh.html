@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<title>审核-每日一句</title>
+<style>
+li
+{
+  background:orange;
+  font-size:35px;
+  margin-top: 5px;
+}
+
+html,body{
+  background-image:url("http://pic1.win4000.com/wallpaper/6/5555886f136a9.jpg")
+}
+
+h1{
+  text-align:center;
+  color:orange;
+
+ .button {
+    background: #3498db;
+    width: 180px;
+    padding: 4px 0;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform:
+    translateX(-50%) translateY(-50%);
+    border-radius: 3px;
+    }
+​
+  p {
+
+    font-family: 'Roboto'; 
+
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #FFF;
+
+    user-select: none;
+
+  }
+    </style>
+    <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="https://cdn.staticfile.org/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+    <script src="http://everydayonesentence.biu8.top/js/core.js">    </script>
+    <script src="http://everydayonesentence.biu8.top/js/shenhe.js">  </script>
+    <script>
+    var $button = document.querySelector('.button');
+
+$button.addEventListener('click', function() {
+
+  var duration = 0.3,
+
+      delay = 0.08;
+
+  TweenMax.to($button, duration, {scaleY: 1.6, ease: Expo.easeOut});
+
+  TweenMax.to($button, duration, {scaleX: 1.2, scaleY: 1, ease: Back.easeOut, easeParams: [3], delay: delay});
+
+  TweenMax.to($button, duration * 1.25, {scaleX: 1, scaleY: 1, ease: Back.easeOut, easeParams: [6], delay: delay * 3 });
+});
+    </script>
+    </head>
+    <body>
+    <label id="lblDateTime"></label>
+    <h1>每日一句审核系统v1.1</h1>
+    <center><button id="get_latest_uncheckd_juzi" class = "button">手动获取最新待审核的句子</button></center>
+    <h2>以下是待审核的句子</h2>
+    </body>
+    </html>
