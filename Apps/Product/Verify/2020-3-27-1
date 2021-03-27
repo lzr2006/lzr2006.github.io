@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>验证 您的产品</title>
+        <style>
+            h1{
+                color:aqua;
+            }
+            h3{
+                font-size: 50px;
+                color:red; 
+                background-color: red;
+                font-family: Georgia, 'Times New Roman', Times, serif;
+            }
+            h3:hover{
+                background-color: skyblue;
+            }
+            html,body{
+                background-image: url(https://z3.ax1x.com/2021/03/27/6xGmZt.jpg);
+                background-size:cover;
+            }
+        </style>
+    </head>
+    <body>
+        <center><h1>您的 刘宗恺毕业电影</h1></center><br><br><br>
+        <h4 style="color: slateblue;">请将鼠标放到红色色块上验证真伪：</h4><br><br>
+        <center><h3>序列号：AWIFP-IOHWF-GXRRW-TFIPT-MCFSA</h3></center>
+    </body>
+</html>
