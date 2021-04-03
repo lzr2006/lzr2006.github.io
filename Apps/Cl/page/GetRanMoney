@@ -1,0 +1,52 @@
+<html>
+<head>
+<title>免费下载</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.s0 { color: #75715e;}
+.s1 { color: #f8f8f2;}
+.s2 { color: #66d9ef; font-style: italic;}
+.s3 { color: #f92672;}
+.s4 { color: #ae81ff;}
+.s5 { color: #e6db74;}
+a:hover{
+    color: rgb(18, 194, 218);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+}
+</style>
+</head>
+<body bgcolor="#272822">
+<table CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#606060" >
+<tr><td><center>
+<font face="Arial, Helvetica" color="#000000">
+GetRanMoney.py 源码展示 免费下载</font>
+</center></td></tr></table>
+<pre><span class="s0">''' 
+模块作者：Toy‘s World 
+模块功能：随机加减金钱 
+'''</span>
+
+<span class="s2">import </span><span class="s1">random</span>
+
+<span class="s1">ready </span><span class="s3">= </span><span class="s1">random.randint(</span><span class="s3">-</span><span class="s4">500</span><span class="s1">,</span><span class="s4">500</span><span class="s1">)</span>
+
+<span class="s1">f </span><span class="s3">= </span><span class="s1">open(</span><span class="s5">&quot;D:</span><span class="s4">\\</span><span class="s5">CLPATH.txt&quot;</span><span class="s1">,</span><span class="s5">&quot;r&quot;</span><span class="s1">)</span>
+<span class="s1">path </span><span class="s3">= </span><span class="s1">f.read()</span>
+<span class="s1">f.close()</span>
+
+<span class="s1">fr </span><span class="s3">= </span><span class="s1">open(path </span><span class="s3">+ </span><span class="s5">&quot;</span><span class="s4">\\</span><span class="s5">API</span><span class="s4">\\</span><span class="s5">money.txt&quot;</span><span class="s1">,</span><span class="s5">&quot;r&quot;</span><span class="s1">)</span>
+<span class="s1">before_money </span><span class="s3">= </span><span class="s1">int(fr.read())</span>
+<span class="s1">now_money </span><span class="s3">= </span><span class="s1">before_money </span><span class="s3">+ </span><span class="s1">ready</span>
+<span class="s1">fr.close()</span>
+
+<span class="s1">fw </span><span class="s3">= </span><span class="s1">open(path </span><span class="s3">+ </span><span class="s5">&quot;</span><span class="s4">\\</span><span class="s5">API</span><span class="s4">\\</span><span class="s5">money.txt&quot;</span><span class="s1">,</span><span class="s5">&quot;w&quot;</span><span class="s1">)</span>
+<span class="s1">fw.write(str(now_money))</span>
+<span class="s1">fw.close()</span>
+
+<span class="s1">fe </span><span class="s3">= </span><span class="s1">open(path </span><span class="s3">+ </span><span class="s5">&quot;</span><span class="s4">\\</span><span class="s5">API</span><span class="s4">\\</span><span class="s5">text.txt&quot;</span><span class="s1">,</span><span class="s5">&quot;w&quot;</span><span class="s1">)</span>
+<span class="s1">fe.write(</span><span class="s5">&quot;Module RanMoney : Add &quot; </span><span class="s3">+ </span><span class="s1">str(ready) </span><span class="s3">+ </span><span class="s5">&quot; Money.&quot;</span><span class="s1">)</span></pre>
+<br><br><br><br><br>
+<center><a href="https://lzr2006.github.io/wkgd/Apps/Cl/GetRanMoney.exe"><h2 style="color: chartreuse;">DownLoad Now</h2></a></center>
+</body>
+</html>
