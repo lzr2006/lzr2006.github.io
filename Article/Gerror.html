@@ -1,223 +1,172 @@
 <!DOCTYPE html>
-
 <html lang="en">
-
 <head>
-
     <meta charset="UTF-8">
-
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <title>猜拳斗地主-Bug大全</title>
-
     <h2 style="text-align: center;color:mediumslateblue;">猜拳斗地主-Bug大全</h2>
-
     <style>
-
-      .table{
-
+       .table{
         width: 90%;
-
         border-collapse: collapse;
-
         border: 1px solid black;
-
         line-height: 1.5em;
-
-        }         
-
+        }           
         .table caption{
-
         line-height: 1.8em;
-
         text-align: left;
-
-        }     
-
+        }       
         .table th{
-
         border:1px solid gray;
-
         padding: 2px;
-
         background-color: #CCCCCC;
-
         }
-
         .table td{
-
         border:1px solid gray;
-
         padding: 3px 0 2px 5px;
-
         background: #F6F6F6;
-
         text-align: center;
-
         }
-
     </style>
-
 </head>
-
 <body>
-
     <table class="table">
-
         <tr>
-
           <th>Bug编号</th>
-
           <th>Bug内容</th>
-
           <th>发现时间&修复时间</th>
-
         </tr>
-
         <tr>
-
           <td>MGB-01</td>
-
           <td>人物头像无法正常加载</td>
-
           <td>2021-02-03 & 2021-02-03</td>
-
         </tr>
-
         <tr>
-
-          <td>MGB-02</td>
-
+            <td>MGB-02</td>
+            <td>进入主窗口后预备窗口不能关闭</td>
+            <td>2021-02-03 & 2021-06-15</td>
+          </tr>
+        <tr>
+          <td>MGB-03</td>
           <td>输赢判断错误</td>
-
           <td>2021-02-04 & 2021-02-05</td>
-
         </tr>
-
         <tr>
-
-            <td>MGB-03</td>
-
-            <td>Victor与Utanus的输赢混乱</td>
-
-            <td>2021-02-05 & 2021-02-05</td>
-
-        </tr>
-
-        <tr>
-
             <td>MGB-04</td>
-
-            <td>减血值不与攻击值对应</td>
-
-            <td>2021-02-06 & 2021-02-06</td>
-
+            <td>Victor与Utanus的输赢混乱</td>
+            <td>2021-02-05 & 2021-02-05</td>
         </tr>
-
         <tr>
-
             <td>MGB-05</td>
-
-            <td>灵异的头像</td>
-
-            <td>2021-02-07 & 2021-02-07</td>
-
+            <td>减血值不与攻击值对应</td>
+            <td>2021-02-06 & 2021-02-06</td>
         </tr>
-
         <tr>
-
             <td>MGB-06</td>
-
-            <td>输赢文字显示位置错误</td>
-
+            <td>灵异的头像</td>
             <td>2021-02-07 & 2021-02-07</td>
-
         </tr>
-
         <tr>
-
             <td>MGB-07</td>
-
-            <td>电脑自动对战异常</td>
-
-            <td>2021-02-08 & 2021-02-08</td>
-
+            <td>输赢文字显示位置错误</td>
+            <td>2021-02-07 & 2021-02-07</td>
         </tr>
-
         <tr>
-
             <td>MGB-08</td>
-
-            <td>火属性职业攻击混乱</td>
-
+            <td>电脑自动对战异常</td>
             <td>2021-02-08 & 2021-02-08</td>
-
         </tr>
-
         <tr>
-
             <td>MGB-09</td>
-
-            <td>跨 线 程 传 参</td>
-
+            <td>火属性职业攻击混乱</td>
             <td>2021-02-08 & 2021-02-08</td>
-
         </tr>
-
         <tr>
-
             <td>MGB-10</td>
-
-            <td>胜利后血量攻击增益混乱</td>
-
-            <td>2021-02-09 & 2021-02-09</td>
-
+            <td>跨 线 程 传 参</td>
+            <td>2021-02-08 & 2021-02-08</td>
         </tr>
-
         <tr>
-
             <td>MGB-11</td>
-
-            <td>第3局结束后Utanus疯狂增益属性</td>
-
+            <td>胜利后血量攻击增益混乱</td>
             <td>2021-02-09 & 2021-02-09</td>
-
         </tr>
-
         <tr>
-
             <td>MGB-12</td>
-
-            <td>玩家与电脑胜利后血量攻击巨幅增长</td>
-
-            <td>2021-02-09 & 2021-02-10</td>
-
+            <td>第3局结束后Utanus疯狂增益属性</td>
+            <td>2021-02-09 & 2021-02-09</td>
         </tr>
-
         <tr>
-
             <td>MGB-13</td>
-
-            <td>玩家与电脑胜利后血量攻击同时增长(因无法修复已经作为特性)</td>
-
-            <td>2021-02-09 & 2021-02-11</td>
-
+            <td>玩家与电脑胜利后血量攻击巨幅增长</td>
+            <td>2021-02-09 & 2021-02-10</td>
         </tr>
-
         <tr>
-
             <td>MGB-14</td>
-
-            <td>不能很好地判断农民与地主的胜负情况</td>
-
-            <td>2021-02-11 & 2021-02-11</td>
-
+            <td>玩家与电脑胜利后血量攻击同时增长(因无法修复已经作为特性)</td>
+            <td>2021-02-09 & 2021-02-11</td>
         </tr>
-
+        <tr>
+            <td>MGB-15</td>
+            <td>不能很好地判断农民与地主的胜负情况</td>
+            <td>2021-02-11 & 2021-02-11</td>
+        </tr>
+        <tr>
+            <td>MGB-16</td>
+            <td>胜利后金钱给予混乱</td>
+            <td>2021-02-11 & 2021-02-11</td>
+        </tr>
+        <tr>
+            <td>MGB-16</td>
+            <td>不能存档</td>
+            <td>2021-02-13 & 2021-02-13</td>
+        </tr>
+        <tr>
+            <td>MGB-17</td>
+            <td>存档之后不能读取存档</td>
+            <td>2021-02-13 & 2021-02-13</td>
+        </tr>
+        <tr>
+            <td>MGB-18</td>
+            <td>关于框内信息显示错误</td>
+            <td>2021-02-15 & 2021-02-15</td>
+        </tr>
+        <tr>
+            <td>MGB-19</td>
+            <td>受伤类型/减血数目显示错误</td>
+            <td>2021-02-15 & 2021-02-15</td>
+        </tr>
+        <tr>
+            <td>MGB-20</td>
+            <td>道具无法使用</td>
+            <td>2021-06-16 & 2021-06-16</td>
+        </tr>
+        <tr>
+            <td>MGB-21</td>
+            <td>道具无法使用</td>
+            <td>2021-06-16 & 2021-06-16</td>
+        </tr>
+        <tr>
+            <td>MGB-22</td>
+            <td>道具金币无增量</td>
+            <td>2021-06-16 & 2021-06-16</td>
+        </tr>
+        <tr>
+            <td>MGB-22</td>
+            <td>裂变道具使用后溅射伤害错误</td>
+            <td>2021-06-17 & 2021-06-17</td>
+        </tr>
+        <tr>
+            <td>MGB-23</td>
+            <td>裂变道具价格显示位置错误</td>
+            <td>2021-06-18 & 2021-06-18</td>
+        </tr>
+        <tr>
+            <td>MGB-24</td>
+            <td>启动主程序时闪退</td>
+            <td>2021-06-18 & 2021-06-18</td>
+        </tr>
         </table>
-
 </body>
-
 </html>
