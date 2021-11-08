@@ -1,0 +1,1025 @@
+
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;}
+@font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:等线;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:Gungsuh;
+	panose-1:2 3 6 0 0 1 1 1 1 1;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Segoe UI Symbol";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+@font-face
+	{font-family:"Arial Black";
+	panose-1:2 11 10 4 2 1 2 2 2 4;}
+@font-face
+	{font-family:华文楷体;
+	panose-1:2 1 6 0 4 1 1 1 1 1;}
+@font-face
+	{font-family:"Colonna MT";
+	panose-1:4 2 8 5 6 2 2 3 2 3;}
+@font-face
+	{font-family:HGSGothicE;}
+@font-face
+	{font-family:微软雅黑;
+	panose-1:2 11 5 3 2 2 4 2 2 4;}
+@font-face
+	{font-family:"\@等线";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"\@Gungsuh";}
+@font-face
+	{font-family:"\@华文楷体";}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"\@HGSGothicE";}
+@font-face
+	{font-family:"\@微软雅黑";}
+@font-face
+	{font-family:"\@MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:等线;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin:0cm;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	text-indent:21.0pt;
+	font-size:10.5pt;
+	font-family:等线;}
+.MsoChpDefault
+	{font-family:等线;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	layout-grid:15.6pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+</head>
+
+<body lang=ZH-CN style='word-wrap:break-word;text-justify-trim:punctuation'>
+
+<div class=WordSection1 style='layout-grid:15.6pt'>
+
+<p class=MsoNormal align=center style='text-align:center'><span
+style='position:relative;z-index:251658242'><span style='left:0px;position:
+absolute;left:-22px;top:-55px;width:673px;height:42px'><img width=673
+height=42 src="pstA.files/image001.png"
+alt="参照秘密级管理★启用前                                   试卷类型：A&#13;&#10;&#13;&#10;"></span></span><a
+name="_Hlk87276187"></a><b><span style='font-size:14.0pt'>方法盒子工作室二〇二一年信息技术统一测试</span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span lang=EN-US
+style='font-size:18.0pt;font-family:"Gungsuh",serif'>Python</span></b><b><span
+style='font-size:18.0pt'>试题</span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span lang=EN-US
+style='font-size:16.0pt'>&nbsp;</span></b></p>
+
+<p class=MsoNormal align=left style='text-align:left'><b><span
+style='font-size:14.0pt'>注意事项<span lang=EN-US>:</span></span></b></p>
+
+<p class=MsoNormal align=left style='text-align:left'><b><span lang=EN-US
+style='font-size:14.0pt'>1.&nbsp; </span></b><b><span style='font-size:14.0pt'>本试卷共四大题，<span
+lang=EN-US>22</span>小题，满分<span lang=EN-US>100</span>分，作答时间<span lang=EN-US>120</span>分钟。</span></b></p>
+
+<p class=MsoNormal align=left style='text-align:left'><b><span lang=EN-US
+style='font-size:14.0pt'>2.&nbsp; </span></b><b><span style='font-size:14.0pt'>如未做特殊说明，请使用<span
+lang=EN-US>Python3. 8</span>进行作答。</span></b></p>
+
+<p class=MsoNormal align=left style='text-align:left'><b><span lang=EN-US
+style='font-size:14.0pt'>&nbsp;</span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:16.0pt'>★祝考试顺利★</span></b></p>
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:16.0pt;font-family:
+"Arial Black",sans-serif'>&nbsp;</span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:14.0pt'>第<span lang=EN-US>I</span>卷 <span lang=EN-US>(</span>选择题
+共<span lang=EN-US>36</span>分<span lang=EN-US>)</span></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span
+style='font-size:12.0pt;font-family:华文楷体'>本卷共包括一大题，<span lang=EN-US>12</span>小题，合计<span
+lang=EN-US>36</span>分。其中<span lang=EN-US>12</span>题全为选择题，请注意将答案填写在试卷上。</span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+style='font-size:12.0pt;font-family:华文楷体'>&nbsp;</span></p>
+
+<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><b><span
+lang=EN-US style='font-size:12.0pt'>一.<span style='font:7.0pt "Times New Roman"'>&nbsp;
+</span></span></b><b><span style='font-size:12.0pt'>单项选择题（本大题共<span lang=EN-US>12</span>小题，每题<span
+lang=EN-US>3</span>分，满分<span lang=EN-US>36</span>分。在每题给出的四个选项中，只有一个是正确的，选对得<span
+lang=EN-US>4</span>分，多选、错选、不选均得<span lang=EN-US>0</span>分。）</span></b></p>
+
+<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><b><span
+lang=EN-US style='font-size:12.0pt;font-family:"Gungsuh",serif'>1.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></b><span
+style='font-size:12.0pt;font-family:"Gungsuh",serif'>在</span><span lang=EN-US
+style='font-size:12.0pt;font-family:Consolas'>Python</span><span
+style='font-size:12.0pt;font-family:"Gungsuh",serif'>中</span><span
+style='font-size:12.0pt'>，用于向屏幕上打印内容的关键字是<span lang=EN-US>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>(&nbsp;&nbsp;&nbsp;&nbsp;
+)</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>A.
+print&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.
+input</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>C.
+printf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D. scanf</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>&nbsp;</span></p>
+
+<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><b><span
+lang=EN-US style='font-size:12.0pt;font-family:"Gungsuh",serif'>2.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></b><span
+style='font-size:12.0pt'>以下变量，在</span><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas'>Python</span><span style='font-size:12.0pt'>中合法的是</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(&nbsp;&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>A.
+None&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.0p2qWa</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>C.
+true&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D.
+$_imy</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>&nbsp;</span></p>
+
+<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><b><span
+lang=EN-US style='font-size:12.0pt;font-family:"Gungsuh",serif'>3.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></b><span
+style='font-size:12.0pt'>以下语句在</span><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas'>Python</span><span style='font-size:12.0pt'>中不存在的是</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(&nbsp;&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>A.
+if...else&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.
+try...expect</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>C.
+if...elif...else&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;D. switch...catch</span></p>
+
+<p class=MsoNormal><a name="_Hlk87276369"><b><span lang=EN-US style='font-size:
+12.0pt;font-family:"Gungsuh",serif'>4.</span></b></a><b><span lang=EN-US
+style='font-size:12.0pt'> </span></b><span style='font-size:12.0pt'>语句</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas'>range(1,7,2)</span><span
+style='font-size:12.0pt'>产生的集合长度是</span><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(&nbsp;&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>A.
+7&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.
+3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+C. 6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+D.3.5</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>&nbsp;</span></p>
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:12.0pt;font-family:
+"Gungsuh",serif'>5. </span></b><span style='font-size:12.0pt'>在</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas'>Python</span><span
+style='font-size:12.0pt'>中，</span><span style='font-size:12.0pt'>用于跳出所有层次循环的语句是</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(&nbsp;&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>A.
+break&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.
+continue </span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>C.
+jumpall&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+D. moveall</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>&nbsp;</span></p>
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:12.0pt;font-family:
+"Gungsuh",serif'>6.</span></b><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas'> </span><span style='font-size:12.0pt'>执行</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas'>(1 + 3) + “4”</span><span
+style='font-size:12.0pt'>的结果是</span><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(&nbsp;&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>A.
+134&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+B.
+44&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+C. </span><span style='font-size:12.0pt'>出错</span><span lang=EN-US
+style='font-size:12.0pt;font-family:Consolas'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+D.8</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>&nbsp;</span></p>
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:12.0pt;font-family:
+"Gungsuh",serif'>7.</span></b><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas'> </span><span style='font-size:12.0pt'>下列表达式的值为</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas'>True</span><span
+style='font-size:12.0pt'>的是</span><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(&nbsp;&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>A.
+5+4j &gt; 2-3j&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.
+3 &gt; 2 &gt; 2&nbsp; </span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>C.
+(3,2)&lt; (‘a’,’b’)&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D.
+’abc’ &gt; ‘xyz’</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>&nbsp;</span></p>
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:12.0pt;font-family:
+"Gungsuh",serif'>8. </span></b><span style='font-size:12.0pt'>关于</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas'>Python</span><span
+style='font-size:12.0pt'>中的模块，以下说法错误的是</span><span lang=EN-US style='font-size:
+12.0pt;font-family:Consolas'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;(&nbsp;&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>A.
+</span><span style='font-size:12.0pt'>一</span><span style='font-size:12.0pt'>个</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas'>xx.py</span><span
+style='font-size:12.0pt'>就是一</span><span style='font-size:12.0pt'>个</span><span
+style='font-size:12.0pt'>模</span><span style='font-size:12.0pt'>块</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>B.
+</span><span style='font-size:12.0pt'>任何一</span><span style='font-size:12.0pt'>个</span><span
+style='font-size:12.0pt'>普通的</span><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas'>xx.py</span><span style='font-size:12.0pt'>文件可以作</span><span
+style='font-size:12.0pt'>为</span><span style='font-size:12.0pt'>模</span><span
+style='font-size:12.0pt'>块导</span><span style='font-size:12.0pt'>入</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>C.
+</span><span style='font-size:12.0pt'>模</span><span style='font-size:12.0pt'>块</span><span
+style='font-size:12.0pt'>文件的</span><span style='font-size:12.0pt'>扩</span><span
+style='font-size:12.0pt'>展名不一定是</span><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas'>.py</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>D.
+</span><span style='font-size:12.0pt'>运</span><span style='font-size:12.0pt'>行</span><span
+style='font-size:12.0pt'>时会从</span><span style='font-size:12.0pt'>制定的目</span><span
+style='font-size:12.0pt'>录</span><span style='font-size:12.0pt'>搜索</span><span
+style='font-size:12.0pt'>导</span><span style='font-size:12.0pt'>入的模</span><span
+style='font-size:12.0pt'>块</span><span style='font-size:12.0pt'>，如果</span><span
+style='font-size:12.0pt'>没</span><span style='font-size:12.0pt'>有，</span><span
+style='font-size:12.0pt'>会报错异</span><span style='font-size:12.0pt'>常</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>&nbsp;</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:"Gungsuh",serif'>9.
+</span><span style='font-size:12.0pt'>已知集合</span><span lang=EN-US
+style='font-size:12.0pt;font-family:Consolas'>{x | 1 &lt; x &lt; 3 | x </span><span
+lang=EN-US style='font-size:12.0pt;font-family:"Cambria Math",serif'>∈ </span><b><i><span
+lang=EN-US style='font-size:12.0pt;font-family:"Gungsuh",serif'>Z</span></i></b><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas'>}</span><span
+style='font-size:12.0pt'>则</span><span style='font-size:12.0pt'>在</span><span
+style='font-size:12.0pt'>条</span><span style='font-size:12.0pt'>件</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas'>if (x/2 == 1)</span><span
+style='font-size:12.0pt'>下遍</span><span style='font-size:12.0pt'>历</span><span
+style='font-size:12.0pt'>此集合得到的</span><span style='font-size:12.0pt'>数</span><span
+style='font-size:12.0pt'>据是</span><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(&nbsp;&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>A.
+{1,2,3}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.
+{1,3} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C.
+{2}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D.</span><span
+lang=EN-US style='font-size:12.0pt;font-family:"Cambria Math",serif'>&#8709;</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:"Cambria Math",serif'>&nbsp;</span></p>
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:12.0pt;font-family:
+"Gungsuh",serif'>10. </span></b><span style='font-size:12.0pt'>语句</span><span
+lang=EN-US style='font-size:13.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>Print(3 + “I”);</span><span
+style='font-size:12.0pt;color:#2F2F2F;letter-spacing:.4pt;background:white'>中的错误数量是</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(&nbsp;&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>A. 1</span><span
+style='font-size:12.0pt;color:#2F2F2F;letter-spacing:.4pt;background:white'>处</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+B. 2</span><span style='font-size:12.0pt;color:#2F2F2F;letter-spacing:.4pt;
+background:white'>处</span><span lang=EN-US style='font-size:12.0pt;font-family:
+Consolas;color:#2F2F2F;letter-spacing:.4pt;background:white'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+C. 3</span><span style='font-size:12.0pt;color:#2F2F2F;letter-spacing:.4pt;
+background:white'>处</span><span lang=EN-US style='font-size:12.0pt;font-family:
+Consolas;color:#2F2F2F;letter-spacing:.4pt;background:white'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+D. 4</span><span style='font-size:12.0pt;color:#2F2F2F;letter-spacing:.4pt;
+background:white'>处</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>&nbsp;</span></p>
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:12.0pt;font-family:
+"Gungsuh",serif;color:#2F2F2F;letter-spacing:.4pt;background:white'>11. </span></b><span
+style='font-size:12.0pt;color:#2F2F2F;letter-spacing:.4pt;background:white'>已知函数</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>y = f(x)</span><span style='font-size:
+12.0pt;color:#2F2F2F;letter-spacing:.4pt;background:white'>是定义在</span><b><i><span
+lang=EN-US style='font-size:12.0pt;font-family:"Gungsuh",serif;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>I</span></i></b><b><i><span lang=EN-US
+style='font-size:12.0pt;color:#2F2F2F;letter-spacing:.4pt;background:white'> </span></i></b><span
+lang=EN-US style='font-size:12.0pt;color:#2F2F2F;letter-spacing:.4pt;
+background:white'>(</span><strong><span lang=EN-US style='font-size:13.5pt;
+font-family:"Cambria Math",serif;color:#111111;background:white;font-weight:
+normal'>&#8704;</span></strong><strong><span lang=EN-US style='font-size:13.5pt;
+font-family:"Cambria Math",serif;color:#111111;background:white'> e </span></strong><strong><span
+lang=EN-US style='font-size:13.5pt;font-family:"Cambria Math",serif;color:#111111;
+background:white;font-weight:normal'>∈</span></strong><strong><span lang=EN-US
+style='font-size:13.5pt;font-family:"Cambria Math",serif;color:#111111;
+background:white'> <i>I</i></span></strong><strong><i><span style='font-size:
+13.5pt;font-family:等线;color:#111111;background:white'>，</span></i></strong><strong><i><span
+lang=EN-US style='font-size:13.5pt;font-family:"Cambria Math",serif;color:#111111;
+background:white'>e</span></i></strong><strong><span lang=EN-US
+style='font-size:13.5pt;font-family:"Cambria Math",serif;color:#111111;
+background:white;font-weight:normal'> ∈ </span></strong><strong><i><span
+lang=EN-US style='font-size:13.5pt;font-family:"Cambria Math",serif;color:#111111;
+background:white'>Z </span></i></strong><span lang=EN-US style='font-size:12.0pt;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>)</span><span
+style='font-size:12.0pt;color:#2F2F2F;letter-spacing:.4pt;background:white'>上的奇函数，使用</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>Python</span><span style='font-size:12.0pt;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>执行如下语句：</span></p>
+
+<p class=MsoNormal><a name="_Hlk87276443"><span lang=EN-US style='font-size:
+12.0pt;font-family:Consolas;color:#2F2F2F;letter-spacing:.4pt;background:white'>sum
+= 0</span></a></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>for i in I:</span></p>
+
+<p class=MsoNormal style='text-indent:27.0pt'><span lang=EN-US
+style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;letter-spacing:.4pt;
+background:white'>sum += i</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>print(sum)</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;color:#2F2F2F;letter-spacing:
+.4pt;background:white'>若</span><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas;color:#2F2F2F;letter-spacing:.4pt;background:white'>f(x) =
+3x</span><span style='font-size:12.0pt;color:#2F2F2F;letter-spacing:.4pt;
+background:white'>，程序执行结果是</span><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas;color:#2F2F2F;letter-spacing:.4pt;background:white'>-3</span><span
+style='font-size:12.0pt;color:#2F2F2F;letter-spacing:.4pt;background:white'>，则</span><b><i><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>I</span></i></b><span style='font-size:
+12.0pt;color:#2F2F2F;letter-spacing:.4pt;background:white'>最可能是</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(&nbsp;&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>A. [-5,3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;B. [-3,3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;C. (-3,3]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;D. (-5,3]</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>&nbsp;</span></p>
+
+<p class=MsoNormal><a name="_Hlk87276958"><b><span lang=EN-US style='font-size:
+12.0pt;font-family:"Gungsuh",serif;color:#2F2F2F;letter-spacing:.4pt;
+background:white'>12.</span></b></a><b><span lang=EN-US style='font-size:12.0pt;
+color:#2F2F2F;letter-spacing:.4pt;background:white'> </span></b><span
+style='font-size:12.0pt'>设全集 </span><b><i><span lang=EN-US style='font-size:
+12.0pt;font-family:"Courier New"'>U</span></i></b><span lang=EN-US
+style='font-size:12.0pt;font-family:"Colonna MT"'> </span><span lang=EN-US
+style='font-size:12.0pt;font-family:Consolas'>= {x | x % 2 == 0 | x &lt; 13 | x
+</span><span lang=EN-US style='font-size:12.0pt;font-family:"Segoe UI Symbol",sans-serif'>∈</span><b><i><span
+lang=EN-US style='font-size:12.0pt'> </span></i></b><b><i><span lang=EN-US
+style='font-size:12.0pt;font-family:"Courier New"'>N*</span></i></b><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas'>}</span><span
+style='font-size:12.0pt'>，函数</span><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas'>aggregate(list)</span><span style='font-size:12.0pt'>可以将一个</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas'>list</span><span
+style='font-size:12.0pt'>类型的数据转换为集合型。</span><span style='font-size:12.0pt'>则执行如下语句：</span></p>
+
+<p class=MsoListParagraph style='margin-left:21.0pt;text-indent:0cm;line-height:
+115%'><span lang=EN-US style='font-size:12.0pt;line-height:115%;font-family:
+Consolas'>A = []</span></p>
+
+<p class=MsoListParagraph style='margin-left:21.0pt;text-indent:0cm;line-height:
+115%'><span lang=EN-US style='font-size:12.0pt;line-height:115%;font-family:
+Consolas'>for I in U:</span></p>
+
+<p class=MsoListParagraph style='margin-left:21.0pt;text-indent:23.85pt;
+line-height:115%'><span lang=EN-US style='font-size:12.0pt;line-height:115%;
+font-family:Consolas'>if (I % 3 == 0):</span></p>
+
+<p class=MsoNormal style='line-height:115%'><span lang=EN-US style='font-size:
+12.0pt;line-height:115%;font-family:Consolas'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+A. append(I)</span></p>
+
+<p class=MsoNormal style='line-height:115%'><span lang=EN-US style='font-size:
+12.0pt;line-height:115%;font-family:Consolas'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+else:</span></p>
+
+<p class=MsoNormal style='line-height:115%'><span lang=EN-US style='font-size:
+12.0pt;line-height:115%;font-family:Consolas'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+pass</span></p>
+
+<p class=MsoNormal style='line-height:115%'><span lang=EN-US style='font-size:
+12.0pt;line-height:115%;font-family:Consolas'>&nbsp;&nbsp;&nbsp; aggregate(A)</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt'>则对于以下集合</span><b><i><span
+lang=EN-US style='font-size:12.0pt;font-family:"Courier New"'>B</span></i></b><span
+style='font-size:12.0pt'>，满足</span><b><i><span lang=EN-US style='font-size:
+12.0pt;font-family:"Courier New"'>B</span></i></b><strong><span lang=EN-US
+style='font-size:13.5pt;font-family:"Segoe UI Symbol",sans-serif;color:#111111;
+background:white'> </span></strong><strong><span lang=EN-US style='font-size:
+13.5pt;font-family:"Segoe UI Symbol",sans-serif;color:#111111;background:white;
+font-weight:normal'>&#8838;</span></strong><strong><span lang=EN-US style='font-size:
+13.5pt;font-family:"Segoe UI Symbol",sans-serif;color:#111111;background:white'>
+</span></strong><strong><i><span lang=EN-US style='font-size:12.0pt;font-family:
+"Courier New";color:#111111;background:white'>A</span></i></strong><strong><span
+style='font-size:12.0pt;font-family:等线;color:#111111;background:white'>且</span></strong><b><i><span
+lang=EN-US style='font-size:12.0pt;font-family:"Courier New"'>B </span></i></b><span
+style='font-size:12.0pt'>∩</span><span style='font-size:12.0pt;font-family:
+"Courier New"'> </span><strong><i><span lang=EN-US style='font-size:12.0pt;
+font-family:"Courier New";color:#111111;background:white'>A</span></i></strong><strong><span
+style='font-size:12.0pt;font-family:等线;color:#111111;background:white;
+font-weight:normal'>中不少于</span></strong><strong><span lang=EN-US
+style='font-size:12.0pt;font-family:Consolas;color:#111111;background:white;
+font-weight:normal'>2</span></strong><strong><span style='font-size:12.0pt;
+font-family:等线;color:#111111;background:white;font-weight:normal'>个元素</span></strong><span
+style='font-size:12.0pt'>的是</span><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(&nbsp;&nbsp;&nbsp;&nbsp; )</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>A.
+{3,6,9,12,14,21}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B. {y | y &lt; 13 |
+y % 3 == 0 |</span><span lang=EN-US style='font-size:12.0pt;font-family:"Colonna MT"'>
+</span><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>y</span><span
+lang=EN-US style='font-size:12.0pt;font-family:"Colonna MT"'> </span><span
+style='font-size:12.0pt'>∈</span><b><i><span lang=EN-US style='font-size:12.0pt;
+font-family:"Courier New"'> N*</span></i></b><span lang=EN-US style='font-size:
+12.0pt;font-family:Consolas'>}</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>C.
+{3,12}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+D. {3,9,12}</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>&nbsp;</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>&nbsp;</span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:14.0pt'>第<span lang=EN-US>II</span>卷 <span lang=EN-US>(</span>非选择题
+共<span lang=EN-US>64</span>分<span lang=EN-US>)</span></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span
+style='font-size:12.0pt;font-family:华文楷体'>本卷共包括两大题，<span lang=EN-US>10</span>小题，合计<span
+lang=EN-US>64</span>分。其中<span lang=EN-US>13-16</span>题为填空题，<span lang=EN-US>17-22</span>题为解答题。请注意将答案填写在试卷上。</span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span lang=EN-US
+style='font-size:14.0pt'>&nbsp;</span></b></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>&nbsp;</span></p>
+
+<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><b><span
+lang=EN-US style='font-size:12.0pt'>二.<span style='font:7.0pt "Times New Roman"'>&nbsp;
+</span></span></b><b><span style='font-size:12.0pt'>填空题（本大题共<span lang=EN-US>4</span>小题，每题<span
+lang=EN-US>4</span>分，满分<span lang=EN-US>16</span>分。请将答案直接填写在题中横线上。）</span></b></p>
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:12.0pt'>&nbsp;</span></b></p>
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:12.0pt;font-family:
+"Gungsuh",serif'>13.</span></b><b><span lang=EN-US style='font-size:12.0pt'> </span></b><span
+style='font-size:12.0pt'>计算</span><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas'>&quot;3a&quot; + &quot;2a&quot;</span><span
+style='font-size:12.0pt'>的结果是</span><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas'>_______________</span><span style='font-size:12.0pt'>。</span></p>
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:12.0pt;font-family:
+"Gungsuh",serif'>14.</span></b><span lang=EN-US style='font-size:12.0pt'> </span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas'>Python</span><span
+style='font-size:12.0pt'>使用</span><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas'>_______________</span><span style='font-size:12.0pt'>语句引入模块。</span></p>
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:12.0pt;font-family:
+"Gungsuh",serif'>15.</span></b><b><span lang=EN-US style='font-size:12.0pt'> </span></b><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas'>Python</span><span
+style='font-size:12.0pt'>实现表达式求值使用</span><span lang=EN-US style='font-size:
+12.0pt;font-family:Consolas'>__________</span><span style='font-size:12.0pt'>函数，使用</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas'>_________</span><span
+style='font-size:12.0pt'>函数可以直接执行</span><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas'>Python</span><span style='font-size:12.0pt'>语句。</span></p>
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:12.0pt;font-family:
+"Gungsuh",serif'>16. </span></b><span style='font-size:12.0pt'>表达式</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas'> [x for x in
+[1,2,3,4,5] if x&lt;3] </span><span style='font-size:12.0pt'>的值为</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas'>_____________</span><span
+style='font-size:12.0pt'>。</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:"Gungsuh",serif'>&nbsp;</span></p>
+
+<p class=MsoListParagraph style='margin-left:18.0pt;text-indent:-18.0pt'><b><span
+lang=EN-US style='font-size:12.0pt;font-family:"Gungsuh",serif'>三.<span
+style='font:7.0pt "Times New Roman"'> </span></span></b><b><span
+style='font-size:12.0pt'>解答题（本大题共<span lang=EN-US>6</span>小题，满分<span
+lang=EN-US>48</span>分。在解答时需要写出对应的公式定理或解题过程。）</span></b></p>
+
+<p class=MsoNormal><a name="_Hlk87277250"><b><span lang=EN-US style='font-size:
+12.0pt;font-family:"Gungsuh",serif'>17.</span></b></a><b><span lang=EN-US
+style='font-size:12.0pt'> </span></b><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas'>(</span><span style='font-size:12.0pt'>本题满分</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas'>6</span><span
+style='font-size:12.0pt'>分</span><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas'>)</span><span style='font-size:12.0pt'>补充以下实现猜数字功能的程序。</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>&nbsp;</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>num = random.</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas'>_________</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'> (0,10)</span><span lang=EN-US
+style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;letter-spacing:.4pt'><br>
+<span style='background:white'>number</span></span><span lang=EN-US
+style='font-size:12.0pt;color:#2F2F2F;letter-spacing:.4pt;background:white'> </span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>=</span><span lang=EN-US
+style='font-size:12.0pt;color:#2F2F2F;letter-spacing:.4pt;background:white'> </span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas'>_____</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>input(</span><span style='font-size:12.0pt;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>输</span><span
+style='font-size:12.0pt;color:#2F2F2F;letter-spacing:.4pt;background:white'>入你要猜的数字</span><span
+style='font-size:12.0pt;font-family:"HGSGothicE",sans-serif;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>：</span><span lang=EN-US
+style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;letter-spacing:.4pt;
+background:white'>))</span><span lang=EN-US style='font-size:12.0pt;font-family:
+Consolas;color:#2F2F2F;letter-spacing:.4pt'><br>
+<span style='background:white'>if num == number:</span><br>
+</span><span lang=EN-US style='font-size:12.0pt;color:#2F2F2F;letter-spacing:
+.4pt;background:white'>&nbsp;&nbsp;&nbsp; </span><span lang=EN-US
+style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;letter-spacing:.4pt;
+background:white'>print(&quot;</span><span style='font-size:12.0pt;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>恭喜，答</span><span style='font-size:12.0pt;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>对</span><span
+style='font-size:12.0pt;color:#2F2F2F;letter-spacing:.4pt;background:white'>了</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>&quot;)</span><span lang=EN-US
+style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;letter-spacing:.4pt'><br>
+</span><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>_____</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>:</span><span lang=EN-US
+style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;letter-spacing:.4pt'><br>
+</span><span lang=EN-US style='font-size:12.0pt;color:#2F2F2F;letter-spacing:
+.4pt;background:white'>&nbsp;&nbsp;&nbsp; </span><span lang=EN-US
+style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;letter-spacing:.4pt;
+background:white'>print(&quot;</span><span style='font-size:12.0pt;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>错</span><span style='font-size:12.0pt;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>了</span><span lang=EN-US
+style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;letter-spacing:.4pt;
+background:white'>&quot;)</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>&nbsp;</span></p>
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:12.0pt;font-family:
+"Gungsuh",serif'>18.</span></b><b><span lang=EN-US style='font-size:12.0pt'> </span></b><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas'>(</span><span
+style='font-size:12.0pt'>本题满分</span><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas'>6</span><span style='font-size:12.0pt'>分</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas'>)</span><span
+style='font-size:12.0pt'>已知运算</span><span
+lang=EN-US style='font-size:10.5pt;font-family:等线;position:relative;top:11.5pt'><img
+width=173 height=42 src="pstA.files/image002.png"></span><span
+style='font-size:12.0pt'>，例如</span><span
+lang=EN-US style='font-size:10.5pt;font-family:等线;position:relative;top:11.5pt'><img
+width=130 height=42 src="pstA.files/image003.png"></span><span lang=EN-US
+style='font-size:12.0pt;font-family:Consolas'>.</span><span style='font-size:
+12.0pt'>定义函数</span><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>f(n,a,b)</span><span
+style='font-size:12.0pt'>，要求返回运算结果。</span></p>
+
+<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=553
+ style='width:415.1pt;border-collapse:collapse;border:none'>
+ <tr style='height:180.7pt'>
+  <td width=553 valign=top style='width:415.1pt;border:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:180.7pt'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>def
+  f(n,a,b):</span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><a name="_Hlk87277331"><b><span lang=EN-US style='font-size:
+12.0pt;font-family:"Gungsuh",serif;color:white'>19.</span></b></a><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas'> (</span><span
+style='font-size:12.0pt'>本题满分</span><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas'>10</span><span style='font-size:12.0pt'>分</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas'>)</span><span
+style='font-size:12.0pt'>数据类型是编程中重要的一部分。</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>(1)
+</span><span style='font-size:12.0pt'>简述元组与列表的区别；我们为什么要使用元组</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas'>?(5</span><span
+style='font-size:12.0pt'>分</span><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas'>)</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:Consolas'>________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>&nbsp;</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>(2)
+</span><span style='font-size:12.0pt'>为什么函数的默认参数最好不要用可变数据类型</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas'>?(5</span><span
+style='font-size:12.0pt'>分</span><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas'>)</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:Consolas'>________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:Consolas'>&nbsp;</span></p>
+
+<p class=MsoNormal><a name="_Hlk87277518"><b><span lang=EN-US style='font-size:
+12.0pt;font-family:"Gungsuh",serif'>20.</span></b></a><b><span lang=EN-US
+style='font-size:12.0pt'> </span></b><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas'>(</span><span style='font-size:12.0pt'>本题满分</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas'>10</span><span
+style='font-size:12.0pt'>分</span><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas'>)</span><span style='font-size:12.0pt'>面向对象是一种重要的编程思想。</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>(1)</span><span
+style='font-size:12.0pt'>简述</span><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas'>__init__</span><span style='font-size:12.0pt'>和</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas'>__del__</span><span
+style='font-size:12.0pt'>的作用。</span><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas'>(5</span><span style='font-size:12.0pt'>分</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas'>)</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:Consolas'>________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>&nbsp;</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>&nbsp;</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>&nbsp;</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>(2)
+</span><span style='font-size:12.0pt'>简述</span><span lang=EN-US
+style='font-size:12.0pt;font-family:Consolas'>Python</span><span
+style='font-size:12.0pt'>垃圾回收机制。</span><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas'>(5</span><span style='font-size:12.0pt'>分</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas'>)</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:Consolas'>________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:Consolas'>&nbsp;</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas'>&nbsp;</span></p>
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:12.0pt;font-family:
+"Gungsuh",serif;color:#2F2F2F;letter-spacing:.4pt;background:white'>21. </span></b><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>(</span><span style='font-size:12.0pt;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>本题满分</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>12</span><span style='font-size:12.0pt;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>分</span><span lang=EN-US
+style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;letter-spacing:.4pt;
+background:white'>)</span><span style='font-size:12.0pt;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>回调函数</span><span lang=EN-US
+style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;letter-spacing:.4pt;
+background:white'>(CallBack Function)</span><span style='font-size:12.0pt;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>是一种重要的</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>Python</span><span style='font-size:12.0pt;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>机制。</span></p>
+
+<p class=MsoNormal><b><span style='font-size:12.0pt;color:#2F2F2F;letter-spacing:
+.4pt;background:white'>材料一</span></b><b><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas;color:#2F2F2F;letter-spacing:.4pt;background:white'>:</span></b><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'> </span><span style='font-size:12.0pt;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>回调函数是在某一函数中调用另一个函数变量方式</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>,</span><span style='font-size:12.0pt;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>来执行函数</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>.</span><span style='font-size:12.0pt;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>回调函数不是有实现方调用</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>,</span><span style='font-size:12.0pt;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>应该在特定的的时间或事件下</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>,</span><span style='font-size:12.0pt;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>由另一个函数调用的</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>,</span><span style='font-size:12.0pt;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>用于对某一事件或条件的响应。</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>(1) </span><span
+style='font-size:12.0pt;color:#2F2F2F;letter-spacing:.4pt;background:white'>回调函数的被调用方函数被作为</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas'>_________</span><span
+style='font-size:12.0pt;color:#2F2F2F;letter-spacing:.4pt;background:white'>传递。</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>(3</span><span style='font-size:12.0pt;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>分</span><span lang=EN-US
+style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;letter-spacing:.4pt;
+background:white'>)</span></p>
+
+<p class=MsoNormal><b><span style='font-size:12.0pt;color:#2F2F2F;letter-spacing:
+.4pt;background:white'>材料二</span></b><b><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas;color:#2F2F2F;letter-spacing:.4pt;background:white'>: </span></b><span
+style='font-size:12.0pt;color:#2F2F2F;letter-spacing:.4pt;background:white'>软件模块之间总是存在着一定的接口</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>,</span><span style='font-size:12.0pt;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>从调用方式上</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>,</span><span style='font-size:12.0pt;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>可以把他们分为三类</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>: </span><span style='font-size:12.0pt;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>同步调用、回调和异步调用。</span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;color:#2F2F2F;letter-spacing:
+.4pt;background:white'>同步调用是一种阻塞式调用，调用方要等待对方执行完毕才返回，它是一种单向调用；</span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;color:#2F2F2F;letter-spacing:
+.4pt;background:white'>回调是一种双向调用模式，也就是说，被调用方在接口被调用时也会调用对方的接口；</span></p>
+
+<p class=MsoNormal><a name="_Hlk87277653"><span style='font-size:12.0pt;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>异步调用是一种类似消息或事件的机制，不过它的调用方向刚好相反，接口的服务在收到某种讯息或发生某种事件时，会主动通知客户方（即调用客户方的接口</span></a><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>.</span></p>
+
+<p class=MsoNormal><a name="_Hlk87277699"><span style='font-size:12.0pt;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>回调和异步调用的关系非常紧密。</span></a></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>(2)</span><span
+style='font-size:12.0pt;color:#2F2F2F;letter-spacing:.4pt;background:white'>简述同步调用、异步调用、回调的区别与联系。</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>(5</span><span style='font-size:12.0pt;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>分</span><span lang=EN-US
+style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;letter-spacing:.4pt;
+background:white'>)</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:Consolas'>________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:Consolas'>______________________________________________________________</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:Consolas'>______________________________________________________________</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:Consolas'>______________________________________________________________</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>(3)</span><span
+style='font-size:12.0pt;color:#2F2F2F;letter-spacing:.4pt;background:white'>阅读如下程序段，完成填空。</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'> (4</span><span style='font-size:12.0pt;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>分</span><span lang=EN-US
+style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;letter-spacing:.4pt;
+background:white'>)</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>import random as rd</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>&nbsp;&nbsp;&nbsp; def
+newRN(fn):&nbsp; # </span><span style='font-size:12.0pt;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>生成</span><span lang=EN-US
+style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;letter-spacing:.4pt;
+background:white'>10</span><span style='font-size:12.0pt;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>个</span><span lang=EN-US
+style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;letter-spacing:.4pt;
+background:white'>[0,1)</span><span style='font-size:12.0pt;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>之间小数</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ns = []</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+for i in range(10):</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+n = round(rd.random(), 2)</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ns.append(n)</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+# </span><span style='font-size:12.0pt;color:#2F2F2F;letter-spacing:.4pt;
+background:white'>改成回调函数方式</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:Consolas;color:#2F2F2F;letter-spacing:.4pt;
+background:white'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:Consolas'>_______________<span
+style='color:#2F2F2F;letter-spacing:.4pt;background:white'> # </span></span><span
+style='font-size:12.0pt;line-height:150%;color:#2F2F2F;letter-spacing:.4pt;
+background:white'>调用是调用方函数，这一操作称之为回调</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>&nbsp;&nbsp;&nbsp; # </span><span
+style='font-size:12.0pt;color:#2F2F2F;letter-spacing:.4pt;background:white'>定义回调函数</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>&nbsp;&nbsp;&nbsp; def
+abc(*args):</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+# </span><span style='font-size:12.0pt;color:#2F2F2F;letter-spacing:.4pt;
+background:white'>进入到本函数内，意味着被调用方函数已执行完</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+print('</span><span style='font-size:12.0pt;color:#2F2F2F;letter-spacing:.4pt;
+background:white'>生成数据成功</span><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas;color:#2F2F2F;letter-spacing:.4pt;background:white'>')</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+print(args)</span></p>
+
+<p class=MsoNormal style='text-indent:27.0pt'><span lang=EN-US
+style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;letter-spacing:.4pt;
+background:white'>newRN(abc)&nbsp;&nbsp; </span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>&nbsp;</span></p>
+
+<p class=MsoNormal><a name="_Hlk87277797"><b><span lang=EN-US style='font-size:
+12.0pt;font-family:"Gungsuh",serif;color:#2F2F2F;letter-spacing:.4pt;
+background:white'>22.</span></b></a><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas;color:#2F2F2F;letter-spacing:.4pt;background:white'> (</span><span
+style='font-size:12.0pt;color:#2F2F2F;letter-spacing:.4pt;background:white'>本题满分</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>12</span><span style='font-size:12.0pt;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>分</span><span lang=EN-US
+style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;letter-spacing:.4pt;
+background:white'>)</span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;color:#2F2F2F;letter-spacing:
+.4pt;background:white'>你有</span><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas;color:#2F2F2F;letter-spacing:.4pt;background:white'>n</span><span
+style='font-size:12.0pt;color:#2F2F2F;letter-spacing:.4pt;background:white'>枚糖，其中第</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>i</span><span style='font-size:12.0pt;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>枚糖的类型为</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>candyType[i]</span><span
+style='font-size:12.0pt;color:#2F2F2F;letter-spacing:.4pt;background:white'>。你注意到体重正在增长，所以前去拜访了一位医生。</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;color:#2F2F2F;letter-spacing:
+.4pt;background:white'>医生建议你要少摄入糖分，只吃掉她所有糖的</span><span lang=EN-US
+style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;letter-spacing:.4pt;
+background:white'>n/2 </span><span style='font-size:12.0pt;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>即可（</span><span lang=EN-US
+style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;letter-spacing:.4pt;
+background:white'>n </span><span style='font-size:12.0pt;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>是一个偶数）。你非常喜欢这些糖，她想要在遵循医生建议的情况下，尽可能吃到最多不同种类的糖。</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>&nbsp;</span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;color:#2F2F2F;letter-spacing:
+.4pt;background:white'>给你一个长度为</span><span lang=EN-US style='font-size:12.0pt;
+font-family:Consolas;color:#2F2F2F;letter-spacing:.4pt;background:white'>n</span><span
+style='font-size:12.0pt;color:#2F2F2F;letter-spacing:.4pt;background:white'>的整数数组</span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>candyType</span><span style='font-size:
+12.0pt;color:#2F2F2F;letter-spacing:.4pt;background:white'>，返回：</span><span
+style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;letter-spacing:.4pt;
+background:white'> </span><span style='font-size:12.0pt;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>你在仅吃掉</span><span lang=EN-US
+style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;letter-spacing:.4pt;
+background:white'>n/2</span><span style='font-size:12.0pt;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>枚糖的情况下，可以吃到糖的最多种类数。</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>&nbsp;</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>&nbsp;</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>&nbsp;</span></p>
+
+<p class=MsoNormal><a name="_Hlk87277845"><span style='font-size:12.0pt;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>注意</span></a><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>:</span></p>
+
+<p class=MsoListParagraph style='margin-left:21.0pt;text-indent:-21.0pt'><span
+lang=EN-US style='font-size:12.0pt;font-family:Wingdings;color:#2F2F2F;
+letter-spacing:.4pt'>l<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>n == candyType.length</span></p>
+
+<p class=MsoListParagraph style='margin-left:21.0pt;text-indent:-21.0pt'><span
+lang=EN-US style='font-size:12.0pt;font-family:Wingdings;color:#2F2F2F;
+letter-spacing:.4pt'>l<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>2 &lt;= n &lt;= 104</span></p>
+
+<p class=MsoListParagraph style='margin-left:21.0pt;text-indent:-21.0pt'><span
+lang=EN-US style='font-size:12.0pt;font-family:Wingdings;color:#2F2F2F;
+letter-spacing:.4pt'>l<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>n / 2 = 0</span></p>
+
+<p class=MsoListParagraph style='margin-left:21.0pt;text-indent:-21.0pt'><span
+lang=EN-US style='font-size:12.0pt;font-family:Wingdings;color:#2F2F2F;
+letter-spacing:.4pt'>l<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
+lang=EN-US style='font-size:12.0pt;font-family:Consolas;color:#2F2F2F;
+letter-spacing:.4pt;background:white'>-105 &lt;= candyType[i] &lt;= 105</span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>&nbsp;</span></p>
+
+<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=584
+ style='width:437.8pt;border-collapse:collapse;border:none'>
+ <tr style='height:560.45pt'>
+  <td width=584 valign=top style='width:437.8pt;border:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:560.45pt'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+  color:#2F2F2F;letter-spacing:.4pt;background:white'>def GetMostType(candyType):</span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;font-family:Consolas;
+color:#2F2F2F;letter-spacing:.4pt;background:white'>&nbsp;</span></p>
+
+</div>
+
+</body>
+
+</html>
