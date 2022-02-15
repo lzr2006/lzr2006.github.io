@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>软件商城</title>
+    <style>
+        h1
+        {
+            text-align: center;
+        }
+        .top
+        {
+            display: inherit;
+            height: 100px;
+            width: 100%;
+            background: green;
+            overflow: none;
+        }
+        .top p
+        {
+            display: block;
+            margin-top: -0px;
+            padding-top: 20px;
+            margin-left: 150px;
+            overflow: none;
+            font-size: x-large;
+            color: white;
+            font-family: 'Microsoft YaHei', Cochin, Georgia, Times, 'Times New Roman', serif;
+            line-height: -5px;
+        }
+        .top a
+        {
+            display: block;
+            margin-left: 190px;
+            font-size: large;
+            color: white;
+            line-height: -5px;
+            float: left;
+            padding-top: calc(-0.3%);
+            margin-top: -15px;
+        }
+        .top .nav a
+        {
+            float: left;
+            padding-left: 8%;
+            margin-top: -40px;
+            text-decoration: none;
+    
+        }
+        input
+        {
+            position: relative;
+            top: -44px;
+            left: 55%;
+            line-height: 30px;
+            width: 15%;
+            border: 1px solid transparent;
+            border-radius: 5%;
+        }
+        button
+        {
+            position: relative;
+            top: -44px;
+            left: 55%;
+            line-height: 30px;
+            width: 5%;
+            border: 1px solid transparent;
+            border-radius: 5%;
+        }
+        button:hover
+        {
+            background-color: aliceblue;
+        }
+        h2
+        {
+            text-align: center;
+            color:rgba(0, 0, 0, .6);
+            font-size: x-large
+        }
+        .software-L
+        {
+            float: left;
+            position: inherit;
+            background-color: rgba(200, 200, 200, .5);
+            margin-left: 10%;
+            width: 35%;
+            height: 355px;
+            margin-top: 2%;
+            left: 5%;
+        }
+        .software-R
+        {
+            float: right;
+            position: inherit;
+            margin-right: 10%;
+            background-color: rgba(200, 200, 200, .5);
+            width: 35%;
+            height: 355px;
+            margin-top: 2%;
+            left: 55%;
+        }
+        img
+        {
+            margin-top: -33px;
+            margin-left: 16px;
+            float: left;
+            display: inline-block;
+            width: 35%;
+            height: auto;
+        }
+        .h2L
+        {
+            padding-top: 13px;
+            left: -10px;
+            margin-bottom: -1px;
+
+        }
+        span
+        {
+            padding-top: 3px;
+            display: block; 
+            margin-top: 5px;
+            text-align: center;
+        }
+        .costs
+        {
+            text-align: left;
+            margin-top: 50px;
+            margin-left: 20px;
+            font-family:'Microsoft YaHei', 'SongTi';
+            color: rgba(80, 80, 80, .8);
+        }
+        .tag
+        {
+            padding-top: unset;
+            display: unset; 
+            margin-top: unset;
+            text-align: unset;
+        }
+        .middle > p
+        {
+            text-align: left;
+            margin-top: -5px;
+            margin-left: 20px;
+            font-family:'Microsoft YaHei', 'SongTi';
+            color: rgba(80, 80, 80, .8);
+        }
+        .buttom > a
+        {
+            display: block;
+            width: 100px;
+            height: 25px;
+            background-color: rgba(255, 165, 0, .9);
+            text-decoration: none;
+            color: black;
+            font-size: large;
+        }.buttom{text-align: center;margin-left: 70%;padding-top: 1px;}
+        .a-btn:hover
+        {
+            background-color: rgba(255, 160, 0, .4);
+            box-shadow: 1px 1px black;
+        }
+        .others
+        {
+            padding-left: 8px;
+        }
+    </style>
+    <script>
+        function AutoNav() 
+        {
+            var listNumber = document.getElementById("listNumber-input");
+            var res = listNumber.value;
+            if (res == "MBOEM-Y2021-STWIN-F2711-D5GF8") 
+            {
+               window.location = "shop.html#1";
+            }
+            else if (res == "MBOEM-Y2021-STOUT-A0000-SKF1V") 
+            {
+               window.location = "shop.html#2";
+            }
+            else if (res == "MBOEM-Y2021-STOUT-S2100-T54NF") 
+            {
+               window.location = "shop.html#3";
+            }
+            else if (res == "MBOEM-Y2021-STOUT-J0111-0LT8A") 
+            {
+               window.location = "shop.html#4";
+            }
+            else if (res == "") 
+            {
+                console.log("EMPTY");
+            }
+            else
+            {
+                alert("\"" + res + "\"" +  "不是一个有效的软件序列号。")
+            }
+        }
+    </script>
+</head>
+<body>
+    <div class="top">
+        <div class="font">
+            <p>METHODBOX</p>
+            <div class="font">
+                <a>软件商城</a>
+            </div>
+            <div class="nav">
+                <a href="index.html">首页</a>
+                <a href="https://lzr2006.github.io/wkgd" style="padding-left: 16%;">官网</a>
+                <a href="mailto://i@imethodbox.onmicrosoft.com?cc=mb@imethodbox.onmicrosoft.com&cc=toysworld@a3.lifan.ooo&subject=MethodBox软件商城" style="padding-left: 24%;">帮助</a>
+                <input type="text" name="" id="listNumber-input" placeholder="通过软件序列号查找...">
+                <button onclick="AutoNav()">确认</button>
+            </div>
+        </div>
+    </div>
+    <br>
+    <h2>方法盒子软件商城</h2>
+    <div class="software-L" id="1">
+        <div class="topper">
+            <img src="https://s4.ax1x.com/2022/02/15/HgC5jI.png" alt="_blank">
+            <h2 class="h2L">Iron翻译</h2>
+            <span>翻译工具</span>
+        </div>
+        <div class="middle">
+            <h1 class="costs">￥0.00</h1>
+            <p>MethodBox Iron Translate（MIT）是一个方便的翻译工具，支持中英文互译。
+                但该软件的实质是调用了有道翻译的接口，所以只作为学习使用，其版权属于有道。
+            </p>
+        </div>
+        <div class="buttom">
+            <a href="https://toysworld.lanzoup.com/i2R9k003mrle" class="a-btn">现在获取</a>
+        </div>
+        <div class="others">
+            <details>
+                <summary>其他信息：</summary>
+                <summary>&emsp;软件序列号：MBOEM-Y2021-STWIN-F2711-D5GF8</summary>
+            </details>
+        </div>
+    </div>
+
+    <div class="software-R" id="2">
+        <div class="topper">
+            <img src="https://s4.ax1x.com/2022/02/15/HgUsfS.png" alt="_blank" style="margin-top: -28px;width: 28%;">
+            <h2 class="h2L">函数包制作器</h2>
+            <span>辅助工具</span>
+        </div>
+        <div class="middle">
+            <h1 class="costs">￥0.00</h1>
+            <p>
+                MethodBox Function Editor（MFE）是一款用于Minecraft函数包开发的工具，拥有
+                从语法提示到自动打包的一系列功能，方便了大家的制作。
+            </p>
+        </div>
+        <div class="buttom">
+            <a href="https://toysworld.lanzoup.com/ic2f2003oyqd" class="a-btn">现在获取</a>
+        </div>
+        <div class="others">
+            <details>
+                <summary>其他信息：</summary>
+                <summary>&emsp;软件序列号：MBOEM-Y2021-STOUT-A0000-SKF1V</summary>
+            </details>
+        </div>
+    </div>
+    <div class="software-L" id="3">
+        <div class="topper">
+            <img src="https://s4.ax1x.com/2022/02/15/Hgwf0A.png" alt="_blank" style="width: 26%;margin-top: -14px">
+            <h2 class="h2L">垃圾服务终结者</h2>
+            <span>实用工具</span>
+        </div>
+        <div class="middle">
+            <h1 class="costs">￥0.00</h1>
+            <p>
+                MethodBox Garbage Service Terminator（MSGT）可以扫描您电脑中的垃圾服务
+                并将其一一杀死，并且可以生成停止脚本，杀死顽固垃圾服务。
+            </p>
+        </div>
+        <div class="buttom">
+            <a href="https://toysworld.lanzoup.com/ieEzcvnpg5a" class="a-btn">现在获取</a>
+        </div>
+        <div class="others">
+            <details>
+                <summary>其他信息：</summary>
+                <summary>&emsp;软件序列号：MBOEM-Y2021-STOUT-S2100-T54NF</summary>
+            </details>
+        </div>
+    </div>
+    <div class="software-R" id="4">
+        <div class="topper">
+            <img src="https://s4.ax1x.com/2022/02/15/Hg06Nq.png" alt="_blank" style="width: 26%;margin-top: -14px">
+            <h2 class="h2L">简书信息可视化工具</h2>
+            <span>辅助工具</span>
+        </div>
+        <div class="middle">
+            <h1 class="costs">￥0.00</h1>
+            <p>
+                MethodBox Jianshu Information Visualization Tool（MJIVT）是一款获取您的各项简书信息
+                并可视化展示的工具，助力您的创作。
+            </p>
+        </div>
+        <div class="buttom">
+            <a href="https://toysworld.lanzoup.com/ihPDLr7y39a" class="a-btn">现在获取</a>
+        </div>
+        <div class="others">
+            <details>
+                <summary>其他信息：</summary>
+                <summary>&emsp;软件序列号：MBOEM-Y2021-STOUT-J0111-0LT8A</summary>
+            </details>
+        </div>
+    </div>
+</body>
+</html>
