@@ -1,26 +1,26 @@
 Origin:
-Origin 2022.0.1 https://lzr2006.github.io/wkgd/Aim/PlannerTODO-2022.0.Ins.1.zip
-Origin 2022.0.2 https://lzr2006.github.io/wkgd/Aim/MethodBox TO-DO 2022.0.Insider.2.zip
-Origin 2022.1.1 https://lzr2006.github.io/wkgd/Aim/MethodBox TODO 2022.1.Insider.1.zip
+Origin 2022.0.1-https://lzr2006.github.io/wkgd/Aim/PlannerTODO-2022.0.Ins.1.zip
+Origin 2022.0.2-https://lzr2006.github.io/wkgd/Aim/MethodBox TO-DO 2022.0.Insider.2.zip
+Origin 2022.1.1-https://lzr2006.github.io/wkgd/Aim/MethodBox TODO 2022.1.Insider.1.zip
 ,
 Alpha:
-Alpha 3.1 https://lzr2006.github.io/wkgd/Aim/Aim A.2022.3.Insider.1.zip
-Alpha 3.2 https://lzr2006.github.io/wkgd/Aim/Aim A.2022.3.Insider.2.zip
+Alpha 3.1-https://lzr2006.github.io/wkgd/Aim/Aim A.2022.3.Insider.1.zip
+Alpha 3.2-https://lzr2006.github.io/wkgd/Aim/Aim A.2022.3.Insider.2.zip
 ,
 Beta:
-Beta 1.1 https://lzr2006.github.io/wkgd/Aim/Aim B.2022.1.Insider.1.zip
-Beta 1.2 https://lzr2006.github.io/wkgd/Aim/Aim B.2022.1.Insider.2.zip
-Beta 2.1 https://lzr2006.github.io/wkgd/Aim/Aim B.2022.2.Insider.1.zip
-Beta 2.2 https://lzr2006.github.io/wkgd/Aim/Aim B.2022.2.Insider.2.zip
-Beta 3.1 https://lzr2006.github.io/wkgd/Aim/Aim B.2022.3.Insider.1.zip
-Beta 3.2 https://lzr2006.github.io/wkgd/Aim/Aim.B.2022.3.ITest.2.zip
-Beta 3.3 https://lzr2006.github.io/wkgd/Aim/Aim B.2022.3.Insider.3.zip
-Beta 4.1 https://lzr2006.github.io/wkgd/Aim/Aim B.2022.3.Insider.1.zip
-Beta 5.1 https://lzr2006.github.io/wkgd/Aim/Aim B.2022.5.Insider.1.zip
-Beta 5.2 https://lzr2006.github.io/wkgd/Aim/Aim B.2022.5.Insider.2.zip
-Beta 5.3 https://lzr2006.github.io/wkgd/Aim/Aim B.2022.5.Insider.3.zip
-Beta 5.4 https://lzr2006.github.io/wkgd/Aim/Aim B.2022.5.Insider.4.zip
-Beta 6.1 https://lzr2006.github.io/wkgd/Aim/Aim B.2022.6.Insider.1.zip
+Beta 1.1-https://lzr2006.github.io/wkgd/Aim/Aim B.2022.1.Insider.1.zip
+Beta 1.2-https://lzr2006.github.io/wkgd/Aim/Aim B.2022.1.Insider.2.zip
+Beta 2.1-https://lzr2006.github.io/wkgd/Aim/Aim B.2022.2.Insider.1.zip
+Beta 2.2-https://lzr2006.github.io/wkgd/Aim/Aim B.2022.2.Insider.2.zip
+Beta 3.1-https://lzr2006.github.io/wkgd/Aim/Aim B.2022.3.Insider.1.zip
+Beta 3.2-https://lzr2006.github.io/wkgd/Aim/Aim.B.2022.3.ITest.2.zip
+Beta 3.3-https://lzr2006.github.io/wkgd/Aim/Aim B.2022.3.Insider.3.zip
+Beta 4.1-https://lzr2006.github.io/wkgd/Aim/Aim B.2022.3.Insider.1.zip
+Beta 5.1-https://lzr2006.github.io/wkgd/Aim/Aim B.2022.5.Insider.1.zip
+Beta 5.2-https://lzr2006.github.io/wkgd/Aim/Aim B.2022.5.Insider.2.zip
+Beta 5.3-https://lzr2006.github.io/wkgd/Aim/Aim B.2022.5.Insider.3.zip
+Beta 5.4-https://lzr2006.github.io/wkgd/Aim/Aim B.2022.5.Insider.4.zip
+Beta 6.1-https://lzr2006.github.io/wkgd/Aim/Aim B.2022.6.Insider.1.zip
 ,
 Epsilon
-Epsilon 1.0 https://null.nan
+Epsilon 1.0-https://null.nan
