@@ -1,3 +1,3 @@
 Release 1.0.0;31;https://114514.com
 Beta.23060702B;32;https://114514.com
-Dev.23060702_1108;86;https://lzr2006.github.io/aim/Aim.zip
+Dev.23060702_1108;86;https://lzr2006.github.io/Aim/Aim.zip
